@@ -9,7 +9,7 @@ public class Drone {
         if (energi > 10){
             ketinggian ++;
             System.out.println("Drone terbang");
-            
+            //hehe
         }else {
             System.out.println("energi lemah ; tidak dapat terbang");
             
